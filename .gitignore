@@ -3,3 +3,4 @@ learning/
 .terraform/
 terraform.tfstate
 terraform.tfstate.*
+terraform.tfvars
